@@ -1,0 +1,55 @@
+.intro {
+    
+      color:gold;
+      background-color:darkorange;
+      font-family:courier;
+      text-align:left;
+      width:75%;
+      
+    }
+    div {
+      color:darkgreen;
+      border:10px dotted;
+      padding:10px;
+      margin:10px;
+    }
+      .header {
+      color:crimson;
+      font-size:40px;
+      font-family:verdana;
+      border:10px dashed;
+      padding:10px;
+      margin:10px;
+    }
+    
+    body{
+      background-color:gray;
+      text-align:center;
+      border:10px double;
+      padding:10px;
+      margin:10px;
+    }
+    .content {
+      text-align:center;
+      background-color:black;
+      width:70%;
+      height:500px;
+      font-size:12px;
+      border:10px solid;
+      padding:10px;
+      margin:10px;
+    }
+    .image{
+      width:100%;
+      border:10px double;
+      padding:10px;
+      margin:10px;
+    }
+    .interests{
+      background-color:orange;
+      width:25%;
+      font-family:courier;
+      border:10px dashed;
+      padding:10px;
+      margin:10px;
+    }
